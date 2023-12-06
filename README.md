@@ -1,2 +1,2 @@
-# spring-boot-quartz-
+# spring-boot-quartz
 Spring Boot Quartz
